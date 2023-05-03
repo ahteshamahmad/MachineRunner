@@ -8,4 +8,4 @@ jobs:
     machine: true
     resource_class: ahteshamahmad/linux_machine
     steps:
-      - run: echo "Hi! This is my first runner"
+      - run: echo "Hi This is my first runner"
